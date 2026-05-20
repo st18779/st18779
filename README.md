@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Esti Reuven👋
 
-<!--
-**st18779/st18779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Full Stack Developer
+🚀 Passionate about building scalable web applications with clean architecture and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+Backend: C#, ASP.NET Core, Node.js
+Frontend: React, HTML5, CSS3, JavaScript
+Database: SQL Server, MongoDB
+Tools: Docker, Git, VS Code
+
+📌 Featured Projects
+
+🎯 **[שם פרויקט 1]** - תיאור קצר של הפרויקט שלך (למשל: מערכת לניהול משימות ב-React).
+🛒 **[שם פרויקט 2]** - תיאור קצר (למשל: אתר חנות אינטרנטית).
+🏢 **[שם פרויקט 3]** - תיאור קצר.
+
+📫 Contact
+
+  Email: estir6277.email@gmail.com
