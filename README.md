@@ -11,7 +11,7 @@
 - 🧩 Strong foundation in **algorithms, data structures, OOP & software architecture**
 - 🤖 I integrate **AI tools** (GitHub Copilot, Prompt Engineering) into my development workflow
 - 📚 A passionate self-learner with sharp analytical and problem-solving skills
--💼 Open to new opportunities — ready to bring value as an OutSystems / Full Stack Developer
+- 💼 Open to new opportunities — especially software development in OutSystems environments
 
 ---
 
