@@ -19,17 +19,6 @@
 
 ## 🚀 Featured Projects
 
-### 🔷 Leads Collection & Management System — *Practicum @ Proceed Tech*
-> Built within a professional OutSystems training program.
-
-- End-to-end business system for **collecting and managing leads** on **OutSystems Developer Cloud (ODC)**
-- Business-requirements analysis, **data modeling** and workflow design
-- Implemented **business logic and automations** tailored to system needs
-- Designed **friendly, intuitive UIs** with a strong focus on user experience
-- Applied modern **Low-Code best practices** and development methodologies
-
-`OutSystems ODC` · `Service Studio` · `Integration Builder`
-
 <br>
 
 ### 🎟️ Raffle & Sales Management System
@@ -54,12 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -79,8 +63,8 @@
 
 ## 🌐 Languages
 
-[Hebrew]
-[English]
+Hebrew
+English
 
 ---
 
