@@ -11,11 +11,31 @@
 - 🧩 Strong foundation in **algorithms, data structures, OOP & software architecture**
 - 🤖 I integrate **AI tools** (GitHub Copilot, Prompt Engineering) into my development workflow
 - 📚 A passionate self-learner with sharp analytical and problem-solving skills
-- 💼 **Open to new opportunities** — especially **software development in OutSystems environments**
+-💼 Open to new opportunities — ready to bring value as an OutSystems / Full Stack Developer
 
 ---
 
+---
 
+## 🛠️ Tech Stack & Skills
+
+### ☁️ Low-Code Development
+`OutSystems Developer Cloud (ODC)` · `Service Studio` · `Integration Builder`
+
+### 🖥️ Backend Development
+`C#` · `ASP.NET Core` · `Entity Framework Core` · `Node.js` · `Java` · `Spring` · `Python`
+
+### 🎨 Frontend Development
+`Angular` · `React` · `JavaScript` · `HTML5` · `CSS3`
+
+### 🗄️ Databases & Storage
+`SQL Server` · `MongoDB` · `SQLite`
+
+### ⚙️ Tools & DevOps
+`Git` · `GitHub` · `Docker` · `AWS` · `Postman` · `Swagger`
+
+### 🤖 AI-Driven Development
+`GitHub Copilot` · `Prompt Engineering`
 
 ## 🚀 Featured Projects
 
@@ -44,12 +64,6 @@
 ---
 
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🎓 Education & Training
 
