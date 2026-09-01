@@ -36,6 +36,8 @@
 ### 🤖 AI-Driven Development
 `GitHub Copilot` · `Prompt Engineering`
 
+---
+
 ## 🚀 Featured Projects
 
 📦 **[Order Management — Microservices](https://github.com/st18779/OrderManagement-Microservices)** — `.NET 8` · `Docker` · `RabbitMQ` · `Redis`
