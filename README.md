@@ -15,7 +15,6 @@
 
 ---
 
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -29,7 +28,7 @@
 `Angular` · `React` · `JavaScript` · `HTML5` · `CSS3`
 
 ### 🗄️ Databases & Storage
-`SQL Server` · `MongoDB` · `SQLite`
+`SQL Server` · `MongoDB` 
 
 ### ⚙️ Tools & DevOps
 `Git` · `GitHub` · `Docker` · `AWS` · `Postman` · `Swagger`
@@ -39,31 +38,18 @@
 
 ## 🚀 Featured Projects
 
-<br>
+📦 **[Order Management — Microservices](https://github.com/st18779/OrderManagement-Microservices)** — `.NET 8` · `Docker` · `RabbitMQ` · `Redis`
+A production-style e-commerce order system evolved from a monolith into an event-driven microservices architecture, with an API Gateway, saga pattern, caching, and full observability.
 
-### 🎟️ Raffle & Sales Management System
-- Full **web platform** for managing sales and raffles
-- **Server-side business logic** working against a relational database
-- Dynamic UI communicating with a **REST API**
-
-`ASP.NET Core` · `Angular` · `SQL Server`
+🎁 **[Raffle & Sales Management System](https://github.com/st18779/-Raffle-Sales-Management-System)** — `Angular` · `ASP.NET Core` · `SQL Server`
+A full-stack platform for managing sales and raffles, with server-side business logic and a dynamic Angular UI communicating over REST API.
 
 
-
-<br>
-
-### 🛒 E-Commerce Online Store
-- Complete online store with a full **REST API backend** built in **Node.js**
-- Persistent data layer using **MongoDB**
-- **React Hooks** for state management and a smooth, dynamic user interface
-
-`React` · `Node.js` · `MongoDB`
-
+🤖 **[AI Development Course](https://github.com/st18779/AI-Development-Course)** — `Python` · `LangChain` · `LangGraph` · `RAG` · `MCP`
+Hands-on coursework covering prompt engineering, RAG pipelines, LangChain/LangGraph agents, and MCP integrations.
 
 
 ---
-
-
 
 ## 🎓 Education & Training
 
