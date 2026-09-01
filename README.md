@@ -48,7 +48,7 @@
 
 `ASP.NET Core` · `Angular` · `SQL Server`
 
-🔗 [View Repository](#)
+
 
 <br>
 
@@ -59,7 +59,7 @@
 
 `React` · `Node.js` · `MongoDB`
 
-🔗 [View Repository](#)
+
 
 ---
 
