@@ -1,136 +1,96 @@
-# Chana | Full Stack & OutSystems Developer
+<div align="center">
 
-Professional Full Stack Software Engineer specializing in **OutSystems Developer Cloud (ODC)**, .NET ecosystems, modern frontend frameworks, and AI integrations. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Er%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20OutSystems%20(ODC)%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+end-to-end+web+systems;Microservices+%7C+Angular+%7C+.NET+%7C+OutSystems;AI-assisted+development+%7C+Prompt+Engineering)](https://git.io/typing-svg)
 
-## Executive Summary
+<a href="mailto:estir6277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/st18779"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-2EA043?style=for-the-badge" alt="Open to work" />
 
-- **OutSystems Specialist:** Experienced in developing end-to-end enterprise applications, back-office administration systems, and business process automation on OutSystems Developer Cloud (ODC).
-- **Full Stack Development:** Practical Software Engineering graduate (GPA: 95) with hands-on expertise in C#, ASP.NET Core, Angular, React, and SQL/NoSQL databases.
-- **AI Integration:** Proficient in leveraging AI tools and architecture including RAG pipelines, LlamaIndex, LangChain, and GitHub Copilot.
-
----
-
-## Technical Skills
-
-- **Low-Code Platforms:** OutSystems Developer Cloud (ODC), Service Studio, Integration Builder
-- **Backend Development:** C#, ASP.NET Core, Entity Framework Core, Node.js, Python, Java, RESTful APIs
-- **Frontend Development:** Angular, React, JavaScript (ES6+), HTML5, CSS3
-- **AI & Automation:** RAG Architecture, LlamaIndex, LangChain, LangGraph, Pinecone, Cohere, MCP, GitHub Copilot
-- **Databases & DevOps:** SQL Server, MongoDB, Docker, AWS, Git, Postman, Swagger
+</div>
 
 ---
 
-## Featured Repositories
+## 👋 About Me
 
-### [AI Technical Documentation RAG System](https://github.com/st18779)
-*Python · LlamaIndex · Cohere · Pinecone · Gradio*
-Event-driven RAG system designed for semantic document retrieval and structured decision extraction. Features an LLM Router to optimize search precision, automated retries, and strict input validation.
+Full Stack Developer who designs and ships **end-to-end web systems**, from REST APIs and databases to dynamic front-ends. I specialize in **OutSystems Developer Cloud (ODC)** and have a strong foundation in algorithms, data structures, OOP and software architecture.
 
-### [Raffle & Sales Management Platform](https://github.com/st18779/-Raffle-Sales-Management-System)
-*Angular · ASP.NET Core · SQL Server · Swagger*
-Full-stack management system featuring complex server-side business logic, relational database persistence, and a responsive Angular UI communicating via REST API.
-
----
-
-## Education
-
-- **Practical Software Engineer (MAHAT)** — Graduated with High Honors (GPA: 95)
-  - Core curriculum: Algorithms, Data Structures, OOP, Operating Systems, Software Architecture & Design Patterns.
+- ☁️ Low-code delivery on **OutSystems ODC**
+- 🏗️ Event-driven **microservices** with .NET, Docker, RabbitMQ and Redis
+- 🤖 AI-assisted workflow: **GitHub Copilot**, **Prompt Engineering**, **LangChain / LangGraph / RAG / MCP**
+- 📚 Self-driven learner with strong analytical and problem-solving skills
+- 💼 **Currently looking for software development roles, especially in OutSystems environments**
 
 ---
 
-## Contact & Links
+## 🛠️ Tech Stack
 
-- **Email:** chana123@gmail.com
-- **GitHub:** [github.com/st18779](https://github.com/st18779)
-- **Languages:** Hebrew (Native), English (Professional Proficiency)
+<div align="center">
 
+**Backend**
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,spring,py" alt="backend" />
 
-<h1 align="center">Hi there, I'm chana man 👋</h1>
-<h3 align="center">Full Stack Developer · OutSystems (ODC) Developer </h3>
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=angular,react,js,html,css" alt="frontend" />
 
-## 👩‍💻 About Me
+**Data & Infrastructure**
 
+<img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws" alt="data" />
 
-- 🚀 **Full Stack Developer** with hands-on experience building **end-to-end web systems**
-- ☁️ Specializing in low-code development on **OutSystems Developer Cloud (ODC)**
-- 🧩 Strong foundation in **algorithms, data structures, OOP & software architecture**
-- 🤖 I integrate **AI tools** (GitHub Copilot, Prompt Engineering) into my development workflow
-- 📚 A passionate self-learner with sharp analytical and problem-solving skills
-- 💼 Open to new opportunities — especially software development in OutSystems environments
+**Tools**
 
----
+<img src="https://skillicons.dev/icons?i=git,github,postman,swagger" alt="tools" />
 
+![OutSystems](https://img.shields.io/badge/OutSystems%20ODC-E4002B?style=for-the-badge&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-## 🛠️ Tech Stack & Skills
-
-### ☁️ Low-Code Development
-`OutSystems Developer Cloud (ODC)` · `Service Studio` · `Integration Builder`
-
-### 🖥️ Backend Development
-`C#` · `ASP.NET Core` · `Entity Framework Core` · `Node.js` · `Java` · `Spring` · `Python`
-
-### 🎨 Frontend Development
-`Angular` · `React` · `JavaScript` · `HTML5` · `CSS3`
-
-### 🗄️ Databases & Storage
-`SQL Server` · `MongoDB` 
-
-### ⚙️ Tools & DevOps
-`Git` · `GitHub` · `Docker` · `AWS` · `Postman` · `Swagger`
-
-### 🤖 AI-Driven Development
-`GitHub Copilot` · `Prompt Engineering`
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-📦 **[Order Management — Microservices](https://github.com/st18779/OrderManagement-Microservices)** — `.NET 8` · `Docker` · `RabbitMQ` · `Redis`
-A production-style e-commerce order system evolved from a monolith into an event-driven microservices architecture, with an API Gateway, saga pattern, caching, and full observability.
+| Project | Stack | What it does |
+|---|---|---|
+| 📦 **[Order Management – Microservices](https://github.com/st18779/OrderManagement-Microservices)** | `.NET 8` `Docker` `RabbitMQ` `Redis` | E-commerce order system evolved from a monolith into an event-driven microservices architecture, with API Gateway, saga pattern, caching and full observability. |
+| 🎁 **[Raffle & Sales Management](https://github.com/st18779/-Raffle-Sales-Management-System)** | `Angular` `ASP.NET Core` `SQL Server` | Full-stack platform for managing sales and raffles, with server-side business logic and a dynamic Angular UI over REST. |
+| 🤖 **[AI Development Course](https://github.com/st18779/AI-Development-Course)** | `Python` `LangChain` `LangGraph` `RAG` `MCP` | Hands-on work on prompt engineering, RAG pipelines, agents and MCP integrations. |
 
-🎁 **[Raffle & Sales Management System](https://github.com/st18779/-Raffle-Sales-Management-System)** — `Angular` · `ASP.NET Core` · `SQL Server`
-A full-stack platform for managing sales and raffles, with server-side business logic and a dynamic Angular UI communicating over REST API.
+---
 
+## 📊 GitHub Stats
 
-🤖 **[AI Development Course](https://github.com/st18779/AI-Development-Course)** — `Python` · `LangChain` · `LangGraph` · `RAG` · `MCP`
-Hands-on coursework covering prompt engineering, RAG pipelines, LangChain/LangGraph agents, and MCP integrations.
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=st18779&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st18779&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+</div>
 
 ---
 
 ## 🎓 Education & Training
 
-
-- **Core courses:** Algorithms · Data Structures · OOP · Operating Systems · Software Architecture
+- **Core:** Algorithms · Data Structures · OOP · Operating Systems · Software Architecture
 - **Architecture:** Design Patterns · Layered Architecture · RESTful Architecture
-- **Advanced Technical English** — technical & academic reading and writing
-- **Advanced AI tools:** GitHub Copilot · Prompt Engineering
+- **Advanced Technical English:** technical and academic reading and writing
+- **AI tools:** GitHub Copilot · Prompt Engineering
+
+**Languages:** Hebrew · English
 
 ---
 
-## 🌐 Languages
+<div align="center">
 
-Hebrew
-English
+### 🤝 Let's Connect
 
----
+<a href="mailto:estir6277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-## 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer" />
 
-<p align="center">
- 
-  <a href="mailto:estir6277@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/st18779">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-
+</div>
