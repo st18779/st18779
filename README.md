@@ -64,8 +64,9 @@ An e-commerce order system that evolved from a monolith into a production-style 
 🎁 **[Raffle & Sales Management System](https://github.com/st18779/-Raffle-Sales-Management-System)** — `Angular` · `ASP.NET Core` · `SQL Server` · `Swagger`  
 A full-stack platform for managing sales and raffles, with server-side business logic, a relational database and a dynamic Angular UI over a REST API.
 
- 🧠 **[RAG with LlamaIndex](https://github.com/st18779/RAG-Project)** — `Python` · `LlamaIndex` · `Cohere` · `Pinecone` · `Gradio`  
+🧠 **[RAG with LlamaIndex](https://github.com/st18779/RAG-Project)** — `Python` · `LlamaIndex` · `Cohere` · `Pinecone` · `Gradio`  
 A RAG system over technical documentation, with vector search, structured JSON extraction, an LLM router between semantic search and structured retrieval, input validation and automatic retries. When no answer exists, it returns "not found" instead of inventing one.
+
 ---
 
 **Languages:** Hebrew (native) · English (high level)
