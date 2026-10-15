@@ -1,4 +1,55 @@
-<h1 align="center">Hi there, I'm Ester Reuven 👋</h1>
+# Chana | Full Stack & OutSystems Developer
+
+Professional Full Stack Software Engineer specializing in **OutSystems Developer Cloud (ODC)**, .NET ecosystems, modern frontend frameworks, and AI integrations. 
+
+---
+
+## Executive Summary
+
+- **OutSystems Specialist:** Experienced in developing end-to-end enterprise applications, back-office administration systems, and business process automation on OutSystems Developer Cloud (ODC).
+- **Full Stack Development:** Practical Software Engineering graduate (GPA: 95) with hands-on expertise in C#, ASP.NET Core, Angular, React, and SQL/NoSQL databases.
+- **AI Integration:** Proficient in leveraging AI tools and architecture including RAG pipelines, LlamaIndex, LangChain, and GitHub Copilot.
+
+---
+
+## Technical Skills
+
+- **Low-Code Platforms:** OutSystems Developer Cloud (ODC), Service Studio, Integration Builder
+- **Backend Development:** C#, ASP.NET Core, Entity Framework Core, Node.js, Python, Java, RESTful APIs
+- **Frontend Development:** Angular, React, JavaScript (ES6+), HTML5, CSS3
+- **AI & Automation:** RAG Architecture, LlamaIndex, LangChain, LangGraph, Pinecone, Cohere, MCP, GitHub Copilot
+- **Databases & DevOps:** SQL Server, MongoDB, Docker, AWS, Git, Postman, Swagger
+
+---
+
+## Featured Repositories
+
+### [AI Technical Documentation RAG System](https://github.com/st18779)
+*Python · LlamaIndex · Cohere · Pinecone · Gradio*
+Event-driven RAG system designed for semantic document retrieval and structured decision extraction. Features an LLM Router to optimize search precision, automated retries, and strict input validation.
+
+### [Raffle & Sales Management Platform](https://github.com/st18779/-Raffle-Sales-Management-System)
+*Angular · ASP.NET Core · SQL Server · Swagger*
+Full-stack management system featuring complex server-side business logic, relational database persistence, and a responsive Angular UI communicating via REST API.
+
+---
+
+## Education
+
+- **Practical Software Engineer (MAHAT)** — Graduated with High Honors (GPA: 95)
+  - Core curriculum: Algorithms, Data Structures, OOP, Operating Systems, Software Architecture & Design Patterns.
+
+---
+
+## Contact & Links
+
+- **Email:** chana123@gmail.com
+- **GitHub:** [github.com/st18779](https://github.com/st18779)
+- **Languages:** Hebrew (Native), English (Professional Proficiency)
+
+
+
+<h1 align="center">Hi there, I'm chana man 👋</h1>
 <h3 align="center">Full Stack Developer · OutSystems (ODC) Developer </h3>
 
 ---
