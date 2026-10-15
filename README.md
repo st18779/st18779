@@ -2,16 +2,16 @@
 <h3 align="center">Full Stack Developer · Low-Code (OutSystems ODC)</h3>
 
 ---
-
 ## 👩‍💻 About Me
 
-Software Practitioner (Mahat) graduate **with distinction (95 average)**, building **end-to-end web systems**: server side, client side and relational and NoSQL databases.
+I build web systems from the database all the way to the user interface.
 
-I combine a solid engineering foundation in algorithms, OOP and layered architecture with hands-on experience in **AI-driven development** (RAG, LangChain, LangGraph, MCP) and **Low-Code development on OutSystems Developer Cloud (ODC)**.
-
-Analytical and creative thinker, fast self-learner, and a reliable team player who cares about precision and clean architecture.
-
-💼 **Open to software development roles.**
+- 🏗️ I design full-stack systems with a solid engineering foundation in algorithms, OOP and layered architecture.
+- ☁️ I have real hands-on experience delivering a business application on `OutSystems ODC`, from the data model and business logic to the UI.
+- 🤖 I build AI-powered tools, such as `RAG` systems and research agents with `LangChain` and `LangGraph`.
+- 🎓 I graduated with distinction and a 95 average.
+- 🔍 I solve problems analytically and pick up new technologies fast.
+- 💼 I am open to new software development roles.
 
 ---
 
@@ -66,15 +66,8 @@ An e-commerce order system that evolved from a monolith into a production-style 
 🎁 **[Raffle & Sales Management System](https://github.com/st18779/-Raffle-Sales-Management-System)** — `Angular` · `ASP.NET Core` · `SQL Server` · `Swagger`  
 A full-stack platform for managing sales and raffles, with server-side business logic, a relational database and a dynamic Angular UI over a REST API.
 
-📓 **[NotebookLM with LangChain](https://github.com/st18779/langchain-notebooklm)** — `LangChain` · `FastAPI` · `Python`  
-An AI research assistant with a web client and an API layer, built on LangChain.
-
 🧠 **[RAG with LlamaIndex](https://github.com/st18779/RAG-Project)** — `Python` · `LlamaIndex` · `Cohere` · `Pinecone` · `Gradio`  
 A RAG system over technical documentation, with vector search, structured JSON extraction, an LLM router between semantic search and structured retrieval, input validation and automatic retries. When no answer exists, it returns "not found" instead of inventing one.
-
-🌦️ **[Weather MCP Server](https://github.com/st18779/MCP-Playwright)** — `MCP` · `Python` · `Playwright`  
-An MCP server and client for weather forecasts, using Playwright where no public API is available.
-
 ---
 
 **Languages:** Hebrew (native) · English (high level)
